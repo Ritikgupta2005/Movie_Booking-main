@@ -152,8 +152,8 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Yash Rana**  
+**Ritik Gupta**  
 🎓 IET Lucknow  
-📧 yashrana2200520100072@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yashrana52)  
-💻 [GitHub](https://github.com/YashRana52)
+📧 ritkgupta2275@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ritikgupta)  
+💻 [GitHub](https://github.com/RitikGupta2005)
