@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://movie-booking-1-hik8.onrender.com/sitemap.xml
