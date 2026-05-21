@@ -87,7 +87,7 @@ Movie_Booking/
 │   ├── routes/
 │   ├── controllers/
 │   └── server.js
-├── screenshots/      # UI screenshots
+├── screenshots/      # UI screenshot
 └── README.md
 ```
 
